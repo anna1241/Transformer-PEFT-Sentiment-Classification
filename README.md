@@ -10,10 +10,10 @@ This project implements and compares four fine-tuning strategies for transformer
 
 ## Methods Compared
 
-✅ **Full Fine-Tuning** — Fine-tune all model parameters  
-✅ **LoRA** — Low-rank adaptation fine-tuning  
-✅ **QLoRA** — Quantized LoRA (4-bit quantization + LoRA adapters)  
-✅ **IA3 (Adapter Tuning)** — Insert IA3 adapters and fine-tune only adapters  
+**Full Fine-Tuning** — Fine-tune all model parameters  
+**LoRA** — Low-rank adaptation fine-tuning  
+**QLoRA** — Quantized LoRA (4-bit quantization + LoRA adapters)  
+**IA3 (Adapter Tuning)** — Insert IA3 adapters and fine-tune only adapters  
 
 ## Dataset
 
